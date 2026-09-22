@@ -1,0 +1,23 @@
+{
+  "results": {
+    "vanilla_snn": {
+      "accuracy_mean": 0.5028801843317973,
+      "accuracy_std": 0.0,
+      "f1_mean": 0.06692219196507945,
+      "f1_std": 0.0,
+      "sparsity_mean": 0.69665090712634,
+      "sparsity_std": 0.0,
+      "n_seeds": 1
+    },
+    "full_phi_spike": {
+      "accuracy_mean": 0.5028801843317973,
+      "accuracy_std": 0.0,
+      "f1_mean": 0.06692219196507945,
+      "f1_std": 0.0,
+      "sparsity_mean": 0.6871778065508062,
+      "sparsity_std": 0.0,
+      "n_seeds": 1
+    }
+  },
+  "failed_runs": []
+}

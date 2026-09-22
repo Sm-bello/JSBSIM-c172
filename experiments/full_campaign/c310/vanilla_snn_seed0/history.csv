@@ -1,0 +1,2 @@
+epoch,train_loss,ce,physics,temporal,sparsity_pen,val_accuracy,val_f1,val_sparsity,nan_batches_skipped
+1,1.9386072754859924,1.9386072754859924,,,,0.49539170506912444,0.06625577767609764,0.6949266599757331,0
